@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Environments and secrets
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Model weights and checkpoints
+*.ckpt
+*.pth
+*.pt
+*.safetensors
+
+# Large/raw geospatial data (publish only when licensing and size permit)
+data/raw/
+data/processed/
+*.tif
+*.tiff
+*.nc
+*.h5
+*.hdf5
+*.grib
+*.grb
+
+# Local experiment artifacts
+logs/
+wandb/
+mlruns/
+outputs/tmp/

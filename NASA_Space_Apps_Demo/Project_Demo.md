@@ -1,6 +1,10 @@
 # GeoRisk-Explorer — Project Demo
 ### NASA Space Apps Challenge | Be an Earth System Trend Detective!
 
+**Public GitHub repository:** https://github.com/ValentinoAlvarado/GeoRisk-Explorer
+
+**Source code and project files:** https://github.com/ValentinoAlvarado/GeoRisk-Explorer/tree/master
+
 > **Scope clarification:** This demo presents the current GeoAI flood-segmentation prototype and its research pathway. It does not claim that long-term Earth-system trend analysis or significance testing has already been implemented.
 
 ---
